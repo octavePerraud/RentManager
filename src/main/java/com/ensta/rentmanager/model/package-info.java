@@ -1,0 +1,1 @@
+package com.ensta.rentmanager.model;
